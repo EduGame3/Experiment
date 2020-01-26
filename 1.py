@@ -7,3 +7,5 @@ elif (a > b):
 	print(f"Menor: {b} ; Mayor: {a}")
 else:
 	print('Los dos números son iguales')
+
+	
